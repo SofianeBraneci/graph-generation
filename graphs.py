@@ -1,4 +1,4 @@
-from math import e
+
 from random import randint
 import time, graphviz
 
